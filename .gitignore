@@ -210,3 +210,4 @@ __pycache__/
 venv/
 mlruns/
 .dvc
+/data
